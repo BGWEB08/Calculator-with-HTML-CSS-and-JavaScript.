@@ -10,5 +10,5 @@ This project provides a calculator with a and user-friendly interface. Built usi
 
 ## Demo
 
-![Analog Clock Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Calculator/calculator-img.png?raw=true)
+![Calculator Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Calculator/calculator-img.png?raw=true)
 
